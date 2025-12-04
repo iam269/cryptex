@@ -2,6 +2,10 @@
 
 Cryptex is a modern, responsive cryptocurrency trading platform that empowers users to buy and sell digital assets securely and efficiently. Built with cutting-edge web technologies, it offers real-time market data, intuitive trading interfaces, and seamless mobile integration. 📈📱
 
+## Live Demo 🌐
+
+Check out the live demo: [https://iam269.github.io/cryptex/](https://iam269.github.io/cryptex/)
+
 ## Features 🌟
 
 - **Real-time Price Tracking** 📊: Monitor live cryptocurrency prices for Bitcoin, Ethereum, and more
